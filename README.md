@@ -9,3 +9,7 @@ $ git clone git@github.com:LukasChiama/chat_app_server.git
 $ npm install
 ```
 Open a web browser and navigate to [http://localhost:4000](http://localhost:4000) to interact with your GraphQL server using the GraphQL Playground.
+
+MIT License
+
+Copyright (c) 2019 Chukwualuka Chiama
